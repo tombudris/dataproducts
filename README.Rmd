@@ -1,0 +1,13 @@
+---
+title: "README"
+author: "T. Budris"
+date: "October 20, 2015"
+output: html_document
+---
+
+This repo contains the source Shiny files for the Coursera JHU/Data Science: Data Products class project.  
+
+The application can be run at https://tbudris.shinyapps.io/EBAC (note the app documentation is provided via the 'Help' tab within the app itself).  
+
+A brief presentation pitching this app can be viewed at http://rpubs.com/tbudris/yyyyy
+
